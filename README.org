@@ -7,6 +7,13 @@
 - [[http://www.gutenberg.org/files/15114/15114-pdf.pdf][(20)]], [[http://www.gutenberg.org/files/15114/15114-t.tex][(21)]]
 
 
+** Theory of Games and Economic Behavior
+
+- John von Neumann, Oskar Morgenstern
+- 1944
+- [[https://ia600301.us.archive.org/29/items/theoryofgamesand030098mbp/theoryofgamesand030098mbp.pdf][(28)]]
+
+
 ** Science, The Endless Frontier
 
 - Vannevar Bush
