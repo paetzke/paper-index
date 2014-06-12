@@ -7,6 +7,13 @@
 - [[http://www.gutenberg.org/files/15114/15114-pdf.pdf][(20)]], [[http://www.gutenberg.org/files/15114/15114-t.tex][(21)]]
 
 
+** The Foundations of Geometry
+
+- David Hilbert
+- 1902
+- [[http://www.gutenberg.org/files/17384/17384-pdf.pdf][(33)]], [[http://www.gutenberg.org/files/17384/17384-t/17384-t.tex][(34)]]
+
+
 ** Distribution of the ratio of the mean square successive difference to the variance
 
 - John von Neumann
