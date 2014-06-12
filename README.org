@@ -63,6 +63,13 @@
 - [[http://thesis.library.caltech.edu/2441/1/Knuth_de_1963.pdf][(24)]]
 
 
+** Theory of Self-Reproducing Automata
+
+- John von Neumann, Arthur W. Burks
+- 1966
+- [[http://www.history-computer.com/Library/VonNeumann1.pdf][(30)]]
+
+
 ** A Case against the GO TO Statement
 
 - Edsger W. Dijkstra
