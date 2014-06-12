@@ -133,6 +133,13 @@
 - [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
 
 
+** Foundations of Computer Science
+
+- Al Aho, Jeff Ullman
+- 1992
+- [[http://infolab.stanford.edu/~ullman/focs/preface.pdf][(35a)]], [[http://infolab.stanford.edu/~ullman/focs/toc.pdf][(35b)]], [[http://infolab.stanford.edu/~ullman/focs/ch01.pdf][(35c)]], [[http://infolab.stanford.edu/~ullman/focs/ch02.pdf][(35d)]], [[http://infolab.stanford.edu/~ullman/focs/ch03.pdf][(35e)]], [[http://infolab.stanford.edu/~ullman/focs/ch04.pdf][(35f)]], [[http://infolab.stanford.edu/~ullman/focs/ch05.pdf][(35g)]], [[http://infolab.stanford.edu/~ullman/focs/ch06.pdf][(35h)]], [[http://infolab.stanford.edu/~ullman/focs/ch07.pdf][(35i)]], [[http://infolab.stanford.edu/~ullman/focs/ch08.pdf][(35j)]], [[http://infolab.stanford.edu/~ullman/focs/ch09.pdf][(35k)]], [[http://infolab.stanford.edu/~ullman/focs/ch10.pdf][(35l)]], [[http://infolab.stanford.edu/~ullman/focs/ch11.pdf][(35m)]], [[http://infolab.stanford.edu/~ullman/focs/ch12.pdf][(35n)]], [[http://infolab.stanford.edu/~ullman/focs/ch13.pdf][(35o)]], [[http://infolab.stanford.edu/~ullman/focs/ch14.pdf][(35p)]], [[http://infolab.stanford.edu/~ullman/focs/index.pdf][(35q)]]
+
+
 ** The Early History of Smalltalk
 
 - Alan C. Kay
