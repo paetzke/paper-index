@@ -91,6 +91,13 @@
 - [[http://thesis.library.caltech.edu/2441/1/Knuth_de_1963.pdf][(24)]]
 
 
+** ELIZA - A Computer Program For the Study of Natural Language Communication Between Man And Machine
+
+- Joseph Weizenbaum
+- 1965-09
+- [[http://www.cse.buffalo.edu/~rapaport/572/S02/weizenbaum.eliza.1966.pdf][(36)]]
+
+
 ** Theory of Self-Reproducing Automata
 
 - John von Neumann, Arthur W. Burks
