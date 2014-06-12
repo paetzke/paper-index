@@ -140,6 +140,13 @@
 - [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
 
 
+** Epigrams in Programming
+
+- Alan J. Perlis
+- 1982-09
+- [[http://cpsc.yale.edu/epigrams-programming][(37)]]
+
+
 ** Foundations of Computer Science
 
 - Al Aho, Jeff Ullman
