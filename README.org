@@ -1,0 +1,118 @@
+* Paper Index
+
+** An Investigation of the Laws of Thought
+
+- George Boole
+- 1854
+- [[http://www.gutenberg.org/files/15114/15114-pdf.pdf][(20)]], [[http://www.gutenberg.org/files/15114/15114-t.tex][(21)]]
+
+
+** Science, The Endless Frontier
+
+- Vannevar Bush
+- 1945-07
+- [[http://www.nsf.gov/od/lpa/nsf50/vbush1945.htm][(17)]]
+
+
+** As We May Think
+
+- Vannevar Bush
+- 1945-07
+- [[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml][(15)]], [[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush.txt][(16)]]
+
+
+** Computing machinery and intelligence
+
+- Alan M. Turing
+- 1950
+- [[http://loebner.net/Prizef/TuringArticle.html][(18)]]
+
+
+** The Chemical Basis of Morphogenesis
+
+- Alan M. Turing
+- 1952-03-15
+- [[http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf][(19)]]
+
+
+** Sketchpad, A Man-Machine Graphical Communication System
+
+- Ivan Sutherland
+- 1959
+- [[http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf][(27)]]
+
+
+** Programs with Common Sense
+
+- John McCarthy
+- 1959
+- [[https://web.archive.org/web/20131004215444/http://www-formal.stanford.edu/jmc/mcc59.dvi][(6)]], [[https://web.archive.org/web/20131004215444/http://www-formal.stanford.edu/jmc/mcc59.pdf][(7)]], [[https://web.archive.org/web/20131004215444/http://www-formal.stanford.edu/jmc/mcc59.ps][(8)]], [[https://web.archive.org/web/20131004223822/http://www-formal.stanford.edu/jmc/mcc59/mcc59.html][(9)]]
+
+
+** Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
+
+- John McCarthy
+- 1960-04
+- [[https://web.archive.org/web/20131004232653/http://www-formal.stanford.edu/jmc/recursive.pdf][(11)]], [[https://web.archive.org/web/20131004215327/http://www-formal.stanford.edu/jmc/recursive.dvi][(12)]], [[https://web.archive.org/web/20131004215327/http://www-formal.stanford.edu/jmc/recursive.ps][(13)]], [[https://web.archive.org/web/20131004215327/http://www-formal.stanford.edu/jmc/recursive/recursive.html][(14)]]
+
+
+** Finite Semifields and Projective Planes
+
+- Donald E. Knuth
+- 1963
+- [[http://thesis.library.caltech.edu/2441/1/Knuth_de_1963.pdf][(24)]]
+
+
+** A Case against the GO TO Statement
+
+- Edsger W. Dijkstra
+- 1968
+- [[http://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF][(25)]], [[http://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html][(26)]]
+
+
+** Some Philosophical Problems from the Standpoint of Artificial Intelligence
+
+- John McCarthy
+- 1969
+- [[https://web.archive.org/web/20130825025836/http://www-formal.stanford.edu/jmc/mcchay69.pdf][(10)]]
+
+
+** A Personal Computer for Children of All Ages
+
+- Alan C. Kay
+- 1972-08
+- [[http://www.mprove.de/diplom/gui/kay72.html][(1)]], [[http://www.mprove.de/diplom/gui/Kay72a.pdf][(2)]]
+
+
+** Forward Reasoning and Dependency-Directed Backtracking in a System for Computer-Aided Circuit analysis
+
+- Richard M. Stallman, Gerald J. Sussman
+- 1976-09
+- [[http://dspace.mit.edu/bitstream/handle/1721.1/6255/AIM-380.pdf?sequence=4][(23)]]
+
+
+** Can Programming Be Liberated from the von Neumann Style?
+
+- John Backus
+- 1977
+- [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
+
+
+** The Early History of Smalltalk
+
+- Alan C. Kay
+- 1993
+- [[http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html][(22)]]
+
+
+** Regular Expression Matching Can Be Simple And Fast
+
+- Russ Cox
+- 2007-01
+- [[http://swtch.com/~rsc/regexp/regexp1.html][(4)]]
+
+
+** An incomplete history of the QED Text Editor
+
+- Dennis Ritchie
+- [[http://plan9.bell-labs.com/who/dmr/qed.html][(5)]]
