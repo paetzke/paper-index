@@ -105,6 +105,13 @@
 - [[http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html][(22)]]
 
 
+** An implementation of von Neumann's self-reproducing machine
+
+- Umberto Pesavento
+- 1995
+- [[https://web.archive.org/web/20070621164824/http://dragonfly.tam.cornell.edu/~pesavent/pesavento_self_reproducing_machine.pdf][(29)]]
+
+
 ** Regular Expression Matching Can Be Simple And Fast
 
 - Russ Cox
