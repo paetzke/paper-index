@@ -218,5 +218,5 @@
 
 ** An incomplete history of the QED Text Editor
 
-- Dennis Ritchie
+- Dennis M. Ritchie
 - [[http://plan9.bell-labs.com/who/dmr/qed.html][(5)]]
