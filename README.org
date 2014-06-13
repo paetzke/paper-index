@@ -97,19 +97,18 @@
 - 1965-09
 - [[http://www.cse.buffalo.edu/~rapaport/572/S02/weizenbaum.eliza.1966.pdf][(36)]]
 
+** Theory of Self-Reproducing Automata
+
+- John von Neumann, Arthur W. Burks
+- 1966
+- [[http://www.history-computer.com/Library/VonNeumann1.pdf][(30)]]
+
 
 ** Display-Selection Techniques for Text Manipulation
 
 - William K. English, Douglas C. Engelbart, Melvyn L. Berman
 - 1967-03
 - [[http://dougengelbart.org/pubs/augment-133184.html][(39)]]
-
-
-** Theory of Self-Reproducing Automata
-
-- John von Neumann, Arthur W. Burks
-- 1966
-- [[http://www.history-computer.com/Library/VonNeumann1.pdf][(30)]]
 
 
 ** A Case against the GO TO Statement
