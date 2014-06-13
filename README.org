@@ -139,6 +139,13 @@
 - [[https://web.archive.org/web/20130825025836/http://www-formal.stanford.edu/jmc/mcchay69.pdf][(10)]]
 
 
+** Users' Reference to B
+
+- Ken Thompson
+- 1972-01-07
+- [[http://cm.bell-labs.com/cm/cs/who/dmr/kbman.pdf][(43)]], [[http://cm.bell-labs.com/cm/cs/who/dmr/kbman.html][(44)]]
+
+
 ** A Personal Computer for Children of All Ages
 
 - Alan C. Kay
