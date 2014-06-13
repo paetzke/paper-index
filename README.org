@@ -133,6 +133,13 @@
 - [[http://www.mprove.de/diplom/gui/kay72.html][(1)]], [[http://www.mprove.de/diplom/gui/Kay72a.pdf][(2)]]
 
 
+** The Command Meta-Language System
+
+- Charles H. Irby
+- 1976
+- [[http://dougengelbart.org/pubs/papers/scanned-original/1976-augment-27266-The-Command-Meta-Language-System.pdf][(40)]]
+
+
 ** Forward Reasoning and Dependency-Directed Backtracking in a System for Computer-Aided Circuit analysis
 
 - Richard M. Stallman, Gerald J. Sussman
