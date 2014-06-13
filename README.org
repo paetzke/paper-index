@@ -118,6 +118,13 @@
 - [[http://dougengelbart.org/pubs/augment-133184.html][(39)]]
 
 
+** The BCPL Reference Manual
+
+- Martin Richards
+- 1967-07-03
+- [[http://cm.bell-labs.com/cm/cs/who/dmr/bcpl.pdf][(42)]], [[http://cm.bell-labs.com/cm/cs/who/dmr/bcpl.ps][(43)]]
+
+
 ** A Case against the GO TO Statement
 
 - Edsger W. Dijkstra
