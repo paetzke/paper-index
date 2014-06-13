@@ -21,6 +21,13 @@
 - [[http://www.gutenberg.org/files/17384/17384-pdf.pdf][(33)]], [[http://www.gutenberg.org/files/17384/17384-t/17384-t.tex][(34)]]
 
 
+** Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I
+
+- Kurt Gödel
+- 1931
+- [[http://www.w-k-essler.de/pdfs/goedel.pdf][(47)]]
+
+
 ** Distribution of the ratio of the mean square successive difference to the variance
 
 - John von Neumann
