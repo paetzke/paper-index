@@ -147,6 +147,13 @@
 - [[http://cpsc.yale.edu/epigrams-programming][(37)]]
 
 
+** Communication with Alien Intelligence
+
+- Marvin Minsky
+- 1985-04
+- [[http://web.media.mit.edu/~minsky/papers/AlienIntelligence.html][(38)]]
+
+
 ** Foundations of Computer Science
 
 - Al Aho, Jeff Ullman
