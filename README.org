@@ -181,6 +181,13 @@
 - [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
 
 
+** Why Pascal is Not My Favorite Programming Language
+
+- Brian W. Kernighan
+- 1981-04-02
+- [[http://www.lysator.liu.se/c/bwk-on-pascal.html][(48)]]
+
+
 ** Epigrams in Programming
 
 - Alan J. Perlis
