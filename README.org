@@ -181,6 +181,13 @@
 - [[http://cpsc.yale.edu/epigrams-programming][(37)]]
 
 
+** Communicating Sequential Processes
+
+- C. A. R. Hoare
+- 1985
+- [[http://www.usingcsp.com/cspbook.pdf][(46)]]
+
+
 ** Communication with Alien Intelligence
 
 - Marvin Minsky
