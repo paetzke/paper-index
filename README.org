@@ -202,6 +202,13 @@
 - [[http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html][(22)]]
 
 
+** The Development of the C Language
+
+- Dennis M. Ritchie
+- 1993-04
+- [[http://cm.bell-labs.com/cm/cs/who/dmr/chist.html][(45)]]
+
+
 ** An implementation of von Neumann's self-reproducing machine
 
 - Umberto Pesavento
