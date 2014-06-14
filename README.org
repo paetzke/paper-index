@@ -209,6 +209,13 @@
 - [[http://web.media.mit.edu/~minsky/papers/AlienIntelligence.html][(38)]]
 
 
+** Structural Regular Expressions
+
+- Rob Pike
+- 1987
+- [[http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf][(49)]]
+
+
 ** Foundations of Computer Science
 
 - Al Aho, Jeff Ullman
