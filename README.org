@@ -251,6 +251,13 @@
 - [[https://web.archive.org/web/20070621164824/http://dragonfly.tam.cornell.edu/~pesavent/pesavento_self_reproducing_machine.pdf][(29)]]
 
 
+** An implementation of complete, asynchronous, distributed garbage collection
+
+- Fabrice Le Fessant, Ian Piumarta, Marc Shapiro
+- 1998-06
+- [[http://piumarta.com/papers/pldi98-gc.pdf][(60)]]
+
+
 ** On Reflexive and Dynamically-Adaptable Environments for Distributed Computing
 
 - Frédéric Ogel, Bertil Folliot, Ian Piumarta
