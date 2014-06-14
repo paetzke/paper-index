@@ -251,6 +251,13 @@
 - [[https://web.archive.org/web/20070621164824/http://dragonfly.tam.cornell.edu/~pesavent/pesavento_self_reproducing_machine.pdf][(29)]]
 
 
+** On Reflexive and Dynamically-Adaptable Environments for Distributed Computing
+
+- Frédéric Ogel, Bertil Folliot, Ian Piumarta
+- 2003-03
+- [[http://piumarta.com/papers/0305DARES.pdf][(58)]]
+
+
 ** UTF-8 history
 
 - Rob Pike
