@@ -258,6 +258,13 @@
 - [[http://doc.cat-v.org/bell_labs/utf-8_history][(55)]]
 
 
+** Accessible Language-Based Environments of Recursive Theories
+
+- Ian Piumarta
+- 2005-09-30
+- [[http://piumarta.com/papers/albert.pdf][(57)]]
+
+
 ** Steps Toward The Reinvention of Programming
 
 - Alan Kay, Dan Ingalls, Yoshiki Ohshima, Ian Piumarta, Andreas Raab
