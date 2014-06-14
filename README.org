@@ -307,6 +307,13 @@
 - [[http://swtch.com/~rsc/regexp/regexp1.html][(4)]]
 
 
+** PEG-based transformer provides front-, middle- and back-end stages in a simple compiler
+
+- Ian Piumarta
+- 2010-08-15
+- [[http://piumarta.com/papers/S3-2010.pdf][(63)]]
+
+
 ** An incomplete history of the QED Text Editor
 
 - Dennis M. Ritchie
