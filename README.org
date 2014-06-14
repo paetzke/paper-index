@@ -258,6 +258,13 @@
 - [[http://doc.cat-v.org/bell_labs/utf-8_history][(55)]]
 
 
+** Steps Toward The Reinvention of Programming
+
+- Alan Kay, Dan Ingalls, Yoshiki Ohshima, Ian Piumarta, Andreas Raab
+- 2006-08-31
+- [[http://www.vpri.org/html/work/NSFproposal.pdf][(56)]]
+
+
 ** Regular Expression Matching Can Be Simple And Fast
 
 - Russ Cox
