@@ -216,6 +216,13 @@
 - [[http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf][(49)]]
 
 
+** Notes on Programming in C
+
+- Rob Pike
+- 1989-02-21
+- [[http://doc.cat-v.org/bell_labs/pikestyle][(52)]]
+
+
 ** Foundations of Computer Science
 
 - Al Aho, Jeff Ullman
