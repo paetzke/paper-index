@@ -272,6 +272,13 @@
 - [[http://doc.cat-v.org/bell_labs/utf-8_history][(55)]]
 
 
+** The Virtual Processor: Fast, Architecture-Neutral Dynamic Code Generation
+
+- Ian Piumarta
+- 2004
+- [[http://piumarta.com/papers/vm04-vpu.pdf][(61)]], [[http://piumarta.com/papers/vpu-vm04.pdf][(62)]]
+
+
 ** Accessible Language-Based Environments of Recursive Theories
 
 - Ian Piumarta
