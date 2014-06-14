@@ -279,6 +279,13 @@
 - [[http://www.vpri.org/html/work/NSFproposal.pdf][(56)]]
 
 
+** ccg: dynamic code generation for C and C++
+
+- Ian Piumarta
+- 2006-10-15
+- [[http://piumarta.com/papers/ccg.pdf][(59)]]
+
+
 ** Regular Expression Matching Can Be Simple And Fast
 
 - Russ Cox
