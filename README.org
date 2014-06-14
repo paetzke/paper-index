@@ -274,3 +274,9 @@
 
 - Rob Pike
 - [[http://doc.cat-v.org/bell_labs/concurrent_window_system/concurrent_window_system.pdf][(53)]]
+
+
+** Squeak: a Language for Communicating with Mice
+
+- Luca Cardelli, Rob Pike
+- [[http://doc.cat-v.org/bell_labs/squeak/squeak.pdf][(54)]]
