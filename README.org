@@ -255,3 +255,9 @@
 
 - Dennis M. Ritchie
 - [[http://plan9.bell-labs.com/who/dmr/qed.html][(5)]]
+
+
+** A New C Compiler
+
+- Ken Thompson
+- [[http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.pdf][(50)]], [[http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.ps][(51)]]
