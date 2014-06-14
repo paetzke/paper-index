@@ -251,6 +251,13 @@
 - [[https://web.archive.org/web/20070621164824/http://dragonfly.tam.cornell.edu/~pesavent/pesavento_self_reproducing_machine.pdf][(29)]]
 
 
+** UTF-8 history
+
+- Rob Pike
+- 2003-04-30
+- [[http://doc.cat-v.org/bell_labs/utf-8_history][(55)]]
+
+
 ** Regular Expression Matching Can Be Simple And Fast
 
 - Russ Cox
