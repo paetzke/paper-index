@@ -63,6 +63,13 @@
 - [[http://loebner.net/Prizef/TuringArticle.html][(18)]]
 
 
+** Error detecting and error correcting codes
+
+- Richard W. Hamming
+- 1950-04
+- [[http://wayback.archive.org/web/20060525060427/http://www.caip.rutgers.edu/~bushnell/dsdwebsite/hamming.pdf][(66)]]
+
+
 ** The Chemical Basis of Morphogenesis
 
 - Alan M. Turing
