@@ -46,7 +46,7 @@
 
 - John von Neumann
 - 1945-06-03
-- [[http://www.virtualtravelog.net/wp/wp-content/media/2003-08-TheFirstDraft.pdf][(71)]]
+- [[http://www.virtualtravelog.net/wp/wp-content/media/2003-08-TheFirstDraft.pdf][(71)]], [[http://systemcomputing.org/turing%20award/Maurice_1967/TheFirstDraft.pdf][(72)]]
 
 
 ** As We May Think
