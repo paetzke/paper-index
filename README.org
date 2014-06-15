@@ -168,6 +168,13 @@
 - [[https://web.archive.org/web/20130825025836/http://www-formal.stanford.edu/jmc/mcchay69.pdf][(10)]]
 
 
+** An Axiomatic Basis for Computer Programming
+
+- C. A. R. Hoare
+- 1969-10
+- [[http://www.spatial.maine.edu/~worboys/processes/hoare%20axiomatic.pdf][(76)]]
+
+
 ** Users' Reference to B
 
 - Ken Thompson
