@@ -224,6 +224,13 @@
 - [[http://cpsc.yale.edu/epigrams-programming][(37)]]
 
 
+** Reflections on Trusting Trust
+
+- Ken Thompson
+- 1984-08
+- [[http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf][(74)]]
+
+
 ** Communicating Sequential Processes
 
 - C. A. R. Hoare
