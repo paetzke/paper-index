@@ -126,6 +126,13 @@
 - [[http://www.rand.org/content/dam/rand/pubs/research_memoranda/2005/RM4122.pdf][(41)]]
 
 
+** On the computational complexity of algorithms
+
+- Juris Hartmanis, Richard E. Stearns
+- 1965
+- [[http://www.ams.org/journals/tran/1965-117-00/S0002-9947-1965-0170805-7/S0002-9947-1965-0170805-7.pdf][(81)]]
+
+
 ** Paths, trees, and flowers
 
 - Jack Edmonds
