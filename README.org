@@ -56,6 +56,13 @@
 - [[http://www.nsf.gov/od/lpa/nsf50/vbush1945.htm][(17)]]
 
 
+** A Mathematical Theory of Communication
+
+- Claude E. Shannon
+- 1948
+- [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf][(67)]], [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.ps][(68)]], [[http://www3.alcatel-lucent.com/bstj/vol27-1948/articles/bstj27-3-379.pdf][(69a)]], [[http://www3.alcatel-lucent.com/bstj/vol27-1948/articles/bstj27-4-623.pdf][(69b)]]
+
+
 ** Computing machinery and intelligence
 
 - Alan M. Turing
