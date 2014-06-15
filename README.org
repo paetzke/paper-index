@@ -42,6 +42,13 @@
 - [[https://ia600301.us.archive.org/29/items/theoryofgamesand030098mbp/theoryofgamesand030098mbp.pdf][(28)]]
 
 
+** First Draft of a Report on the EDVAC
+
+- John von Neumann
+- 1945-06-03
+- [[http://www.virtualtravelog.net/wp/wp-content/media/2003-08-TheFirstDraft.pdf][(71)]]
+
+
 ** As We May Think
 
 - Vannevar Bush
