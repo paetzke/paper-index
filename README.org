@@ -196,6 +196,13 @@
 - [[http://www.mprove.de/diplom/gui/kay72.html][(1)]], [[http://www.mprove.de/diplom/gui/Kay72a.pdf][(2)]]
 
 
+** Scheme: An Interpreter for Extended Lambda Calculus
+
+- Guy L. Steele, Gerald J. Sussman
+- 1975-12
+- [[http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf][(79)]], [[http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.ps.gz][(80)]]
+
+
 ** The Command Meta-Language System
 
 - Charles H. Irby
