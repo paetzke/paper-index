@@ -74,7 +74,7 @@
 
 - Alan M. Turing
 - 1950
-- [[http://loebner.net/Prizef/TuringArticle.html][(18)]]
+- [[http://loebner.net/Prizef/TuringArticle.html][(18)]], [[http://www.csee.umbc.edu/courses/471/papers/turing.pdf][(77)]]
 
 
 ** Error detecting and error correcting codes
