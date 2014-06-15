@@ -287,6 +287,13 @@
 - [[http://piumarta.com/papers/albert.pdf][(57)]]
 
 
+** Making COLAs with Pepsi and Coke
+
+- Ian Piumarta
+- 2005-09-30
+- [[http://piumarta.com/papers/colas-whitepaper.pdf][(64)]]
+
+
 ** Steps Toward The Reinvention of Programming
 
 - Dan Ingalls, Alan Kay, Yoshiki Ohshima, Ian Piumarta, Andreas Raab
