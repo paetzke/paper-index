@@ -189,6 +189,13 @@
 - [[http://www.spatial.maine.edu/~worboys/processes/hoare%20axiomatic.pdf][(76)]]
 
 
+** Reducibility Among Combinatorial Problems
+
+- Richard M. Karp
+- 1972
+- [[http://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf][(82)]]
+
+
 ** Users' Reference to B
 
 - Ken Thompson
