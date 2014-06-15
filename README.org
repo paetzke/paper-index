@@ -42,18 +42,18 @@
 - [[https://ia600301.us.archive.org/29/items/theoryofgamesand030098mbp/theoryofgamesand030098mbp.pdf][(28)]]
 
 
-** Science, The Endless Frontier
-
-- Vannevar Bush
-- 1945-07
-- [[http://www.nsf.gov/od/lpa/nsf50/vbush1945.htm][(17)]]
-
-
 ** As We May Think
 
 - Vannevar Bush
 - 1945-07
 - [[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush-all.shtml][(15)]], [[http://www.ps.uni-saarland.de/~duchier/pub/vbush/vbush.txt][(16)]]
+
+
+** Science, The Endless Frontier
+
+- Vannevar Bush
+- 1945-07
+- [[http://www.nsf.gov/od/lpa/nsf50/vbush1945.htm][(17)]]
 
 
 ** Computing machinery and intelligence
@@ -70,18 +70,18 @@
 - [[http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf][(19)]]
 
 
-** Sketchpad, A Man-Machine Graphical Communication System
-
-- Ivan Sutherland
-- 1959
-- [[http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf][(27)]]
-
-
 ** Programs with Common Sense
 
 - John McCarthy
 - 1959
 - [[https://web.archive.org/web/20131004215444/http://www-formal.stanford.edu/jmc/mcc59.dvi][(6)]], [[https://web.archive.org/web/20131004215444/http://www-formal.stanford.edu/jmc/mcc59.pdf][(7)]], [[https://web.archive.org/web/20131004215444/http://www-formal.stanford.edu/jmc/mcc59.ps][(8)]], [[https://web.archive.org/web/20131004223822/http://www-formal.stanford.edu/jmc/mcc59/mcc59.html][(9)]]
+
+
+** Sketchpad, A Man-Machine Graphical Communication System
+
+- Ivan Sutherland
+- 1959
+- [[http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf][(27)]]
 
 
 ** Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
@@ -315,10 +315,10 @@
 - [[http://piumarta.com/papers/S3-2010.pdf][(63)]]
 
 
-** An incomplete history of the QED Text Editor
+** A Concurrent Window System
 
-- Dennis M. Ritchie
-- [[http://plan9.bell-labs.com/who/dmr/qed.html][(5)]]
+- Rob Pike
+- [[http://doc.cat-v.org/bell_labs/concurrent_window_system/concurrent_window_system.pdf][(53)]]
 
 
 ** A New C Compiler
@@ -327,10 +327,10 @@
 - [[http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.pdf][(50)]], [[http://doc.cat-v.org/bell_labs/new_c_compilers/new_c_compiler.ps][(51)]]
 
 
-** A Concurrent Window System
+** An incomplete history of the QED Text Editor
 
-- Rob Pike
-- [[http://doc.cat-v.org/bell_labs/concurrent_window_system/concurrent_window_system.pdf][(53)]]
+- Dennis M. Ritchie
+- [[http://plan9.bell-labs.com/who/dmr/qed.html][(5)]]
 
 
 ** Squeak: a Language for Communicating with Mice
