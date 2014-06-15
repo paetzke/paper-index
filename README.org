@@ -196,6 +196,13 @@
 - [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
 
 
+** The Unreasonable Effectiveness of Mathematics
+
+- Richard W. Hamming
+- 1980-02-02
+- [[http://www.dartmouth.edu/~matc/MathDrama/reading/Hamming.html][(70)]]
+
+
 ** Why Pascal is Not My Favorite Programming Language
 
 - Brian W. Kernighan
