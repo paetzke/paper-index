@@ -343,6 +343,13 @@
 - [[http://swtch.com/~rsc/regexp/regexp1.html][(4)]]
 
 
+** A Regular Expression Matcher
+
+- Brian W. Kernighan, Rob Pike
+- 2007-01-28
+- [[http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html][(73)]]
+
+
 ** PEG-based transformer provides front-, middle- and back-end stages in a simple compiler
 
 - Ian Piumarta
