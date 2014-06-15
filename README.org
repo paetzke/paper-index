@@ -37,7 +37,7 @@
 
 ** Theory of Games and Economic Behavior
 
-- John von Neumann, Oskar Morgenstern
+- Oskar Morgenstern, John von Neumann
 - 1944
 - [[https://ia600301.us.archive.org/29/items/theoryofgamesand030098mbp/theoryofgamesand030098mbp.pdf][(28)]]
 
@@ -111,16 +111,17 @@
 - 1965-09
 - [[http://www.cse.buffalo.edu/~rapaport/572/S02/weizenbaum.eliza.1966.pdf][(36)]]
 
+
 ** Theory of Self-Reproducing Automata
 
-- John von Neumann, Arthur W. Burks
+- Arthur W. Burks, John von Neumann
 - 1966
 - [[http://www.history-computer.com/Library/VonNeumann1.pdf][(30)]]
 
 
 ** Display-Selection Techniques for Text Manipulation
 
-- William K. English, Douglas C. Engelbart, Melvyn L. Berman
+- Melvyn L. Berman, Douglas C. Engelbart, William K. English
 - 1967-03
 - [[http://dougengelbart.org/pubs/augment-133184.html][(39)]]
 
@@ -260,7 +261,7 @@
 
 ** On Reflexive and Dynamically-Adaptable Environments for Distributed Computing
 
-- Frédéric Ogel, Bertil Folliot, Ian Piumarta
+- Bertil Folliot, Frédéric Ogel, Ian Piumarta
 - 2003-03
 - [[http://piumarta.com/papers/0305DARES.pdf][(58)]]
 
@@ -288,7 +289,7 @@
 
 ** Steps Toward The Reinvention of Programming
 
-- Alan Kay, Dan Ingalls, Yoshiki Ohshima, Ian Piumarta, Andreas Raab
+- Dan Ingalls, Alan Kay, Yoshiki Ohshima, Ian Piumarta, Andreas Raab
 - 2006-08-31
 - [[http://www.vpri.org/html/work/NSFproposal.pdf][(56)]]
 
