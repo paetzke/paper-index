@@ -126,6 +126,13 @@
 - [[http://www.rand.org/content/dam/rand/pubs/research_memoranda/2005/RM4122.pdf][(41)]]
 
 
+** Paths, trees, and flowers
+
+- Jack Edmonds
+- 1965
+- [[http://web.eecs.utk.edu/~yzhang/courses/cs680-graphtheory/edmonds.pdf][(78)]]
+
+
 ** ELIZA - A Computer Program For the Study of Natural Language Communication Between Man And Machine
 
 - Joseph Weizenbaum
