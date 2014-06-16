@@ -413,6 +413,13 @@
 - [[http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html][(73)]]
 
 
+** A Brief History of Software Engineering
+
+- Niklaus Wirth
+- 2008-02-25
+- [[http://www.inf.ethz.ch/personal/wirth/Miscellaneous/IEEE-Annals.pdf][(86)]]
+
+
 ** PEG-based transformer provides front-, middle- and back-end stages in a simple compiler
 
 - Ian Piumarta
