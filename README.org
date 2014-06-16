@@ -322,6 +322,13 @@
 - [[https://web.archive.org/web/20070621164824/http://dragonfly.tam.cornell.edu/~pesavent/pesavento_self_reproducing_machine.pdf][(29)]]
 
 
+** A Plea for Lean Software
+
+- Niklaus Wirth
+- 1995-02
+- [[http://cr.yp.to/bib/1995/wirth.pdf][(83)]]
+
+
 ** An implementation of complete, asynchronous, distributed garbage collection
 
 - Fabrice Le Fessant, Ian Piumarta, Marc Shapiro
