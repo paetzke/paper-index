@@ -273,6 +273,13 @@
 - [[http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf][(74)]]
 
 
+** Algorithms and Data Structures
+
+- Niklaus Wirth
+- 1985
+- [[http://www.inf.ethz.ch/personal/wirth/AD.pdf][(87)]]
+
+
 ** Communicating Sequential Processes
 
 - C. A. R. Hoare
