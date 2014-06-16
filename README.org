@@ -329,6 +329,13 @@
 - [[http://cr.yp.to/bib/1995/wirth.pdf][(83)]]
 
 
+** Compiler Construction
+
+- Niklaus Wirth
+- 1996
+- [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][(84)]]
+
+
 ** An implementation of complete, asynchronous, distributed garbage collection
 
 - Fabrice Le Fessant, Ian Piumarta, Marc Shapiro
