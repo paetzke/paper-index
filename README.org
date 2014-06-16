@@ -189,6 +189,13 @@
 - [[http://www.spatial.maine.edu/~worboys/processes/hoare%20axiomatic.pdf][(76)]]
 
 
+** Program Development by Stepwise Refinement
+
+- Niklaus Wirth
+- 1971-04
+- [[http://sunnyday.mit.edu/16.355/wirth-refinement.html][(85)]]
+
+
 ** Reducibility Among Combinatorial Problems
 
 - Richard M. Karp
