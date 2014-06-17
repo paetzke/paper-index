@@ -385,6 +385,13 @@
 - [[http://piumarta.com/papers/vm04-vpu.pdf][(61)]], [[http://piumarta.com/papers/vpu-vm04.pdf][(62)]]
 
 
+** A Synapse-State Theory of Mental Life
+
+- Peter Naur
+- 2004-02-18
+- [[http://www.naur.com/synapse-state.pdf][(89)]]
+
+
 ** Accessible Language-Based Environments of Recursive Theories
 
 - Ian Piumarta
