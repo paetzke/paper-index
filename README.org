@@ -364,6 +364,13 @@
 - [[http://piumarta.com/papers/pldi98-gc.pdf][(60)]]
 
 
+** C--: a portable assembly language that supports garbage collection
+
+- Simon Peyton Jones, Norman Ramsey, Fermin Reig
+- 1999
+- [[http://research.microsoft.com/en-us/um/people/simonpj/papers/c--/ppdp.ps.gz][(90)]]
+
+
 ** On Reflexive and Dynamically-Adaptable Environments for Distributed Computing
 
 - Bertil Folliot, Frédéric Ogel, Ian Piumarta
