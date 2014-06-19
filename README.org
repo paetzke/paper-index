@@ -357,6 +357,13 @@
 - [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][(84)]]
 
 
+** C--: A Portable Assembly Language
+
+- Simon Peyton Jones, Thomas Nordin, Dino Oliva
+- 1997
+- [[http://www.cs.tufts.edu/~nr/c--/download/pal-ifl.ps.gz][(91)]]
+
+
 ** An implementation of complete, asynchronous, distributed garbage collection
 
 - Fabrice Le Fessant, Ian Piumarta, Marc Shapiro
