@@ -91,6 +91,13 @@
 - [[http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf][(19)]]
 
 
+** Three Models for the Description of Language
+
+- Noam Chomsky
+- 1956-09
+- [[http://www.chomsky.info/articles/195609--.pdf][(92)]]
+
+
 ** Programs with Common Sense
 
 - John McCarthy
