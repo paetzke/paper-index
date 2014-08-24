@@ -112,6 +112,13 @@
 - [[http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf][(27)]]
 
 
+** The syntax and semantics of the proposed international algebraic language of the Zurich ACM-GAMM Conference
+
+- John W. Backus
+- 1959
+- [[http://www.softwarepreservation.org/projects/ALGOL/paper/Backus-Syntax_and_Semantics_of_Proposed_IAL.pdf][(93)]]
+
+
 ** Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I
 
 - John McCarthy
@@ -247,7 +254,7 @@
 
 ** Can Programming Be Liberated from the von Neumann Style?
 
-- John Backus
+- John W. Backus
 - 1977
 - [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
 
