@@ -308,6 +308,13 @@
 - [[http://web.media.mit.edu/~minsky/papers/AlienIntelligence.html][(38)]]
 
 
+** No Silver Bullet
+
+- Frederick P. Brooks, Jr.
+- 1987
+- [[http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf][(94)]]
+
+
 ** Structural Regular Expressions
 
 - Rob Pike
