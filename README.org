@@ -406,6 +406,13 @@
 - [[http://research.microsoft.com/en-us/um/people/simonpj/papers/c--/ppdp.ps.gz][(90)]]
 
 
+** Computer security in the real world
+
+- Butler W. Lampson
+- 2000
+- [[http://research.microsoft.com/en-us/um/people/blampson/64-SecurityInRealWorld/Postscript.ps][(102)]], [[http://research.microsoft.com/en-us/um/people/blampson/64-SecurityInRealWorld/Acrobat.pdf][(103)]], [[http://research.microsoft.com/en-us/um/people/blampson/64-SecurityInRealWorld/WebPage.html][(104)]], [[http://research.microsoft.com/en-us/um/people/blampson/64-SecurityInRealWorld/Word.doc][(105)]]
+
+
 ** On Reflexive and Dynamically-Adaptable Environments for Distributed Computing
 
 - Bertil Folliot, Frédéric Ogel, Ian Piumarta
