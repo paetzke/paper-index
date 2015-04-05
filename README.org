@@ -308,6 +308,13 @@
 - [[http://web.media.mit.edu/~minsky/papers/AlienIntelligence.html][(38)]]
 
 
+** Designing a Global Name Service
+
+- Butler W. Lampson
+- 1986
+- [[http://research.microsoft.com/en-us/um/people/blampson/36-GlobalNames/Postscript.ps][(95)]], [[http://research.microsoft.com/en-us/um/people/blampson/36-GlobalNames/Acrobat.pdf][(96)]], [[http://research.microsoft.com/en-us/um/people/blampson/36-GlobalNames/WebPage.html][(97)]], [[http://research.microsoft.com/en-us/um/people/blampson/36-GlobalNames/Word.doc][(98)]]
+
+
 ** No Silver Bullet
 
 - Frederick P. Brooks, Jr.
