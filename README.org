@@ -448,6 +448,13 @@
 - [[http://piumarta.com/papers/colas-whitepaper.pdf][(64)]]
 
 
+** Practical Principles for Computer Security
+
+- Butler W. Lampson
+- 2006-08
+- [[http://research.microsoft.com/en-us/um/people/blampson/74-PracticalPrinciplesSecurity/74-PracticalPrinciplesSecurity.htm][(100)]], [[http://research.microsoft.com/en-us/um/people/blampson/74-PracticalPrinciplesSecurity/74-PracticalPrinciplesSecurity.doc][(101)]], [[http://research.microsoft.com/en-us/um/people/blampson/74-PracticalPrinciplesSecurity/74-PracticalPrinciplesSecurity.pdf][(99)]]
+
+
 ** Steps Toward The Reinvention of Programming
 
 - Dan Ingalls, Alan Kay, Yoshiki Ohshima, Ian Piumarta, Andreas Raab
