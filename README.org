@@ -1,5 +1,12 @@
 * Paper Index
 
+** On a Method of Expressing by Signs the Action of Machinery
+
+- Charles Babbage
+- 1826
+- [[http://ebooks.library.cornell.edu/k/kmoddl/pdf/001_001.pdf][(106)]]
+
+
 ** An Investigation of the Laws of Thought
 
 - George Boole
