@@ -529,6 +529,12 @@
 - [[http://plan9.bell-labs.com/who/dmr/qed.html][(5)]]
 
 
+** Printing Floating-Point Numbers Quickly and Accurately with Integers
+
+- Florian Loitsch
+- [[https://333341ac-a-698ebdfa-s-sites.googlegroups.com/a/loitsch.com/florian/publications/dtoa-pldi2010.pdf?attachauth=ANoY7cqQQsu-oZcB5mh8OfM53XjdkUJB7oac0kncrNHe48-EanKupydkGvxAFeLaGOYbHO3L_KBWNf6FjZoq2mUVr6L-KbTC5OWmthxOBwn3a4pdcONI55fObHxToecbhVlObJgfu0wYqBkr3ynoWLixsh7x8h27_EFu1sRYizAAGxX3Rb64SEYazZ6J8VQTp9Jnu-zd1UXaLC9o42Wa0OtkVzG5hRzZIPAv3Svwqn4BLRtLGLsl2Ug%3D&attredirects=0][(107)]]
+
+
 ** Squeak: a Language for Communicating with Mice
 
 - Luca Cardelli, Rob Pike
