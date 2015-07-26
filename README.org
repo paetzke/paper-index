@@ -105,6 +105,13 @@
 - [[http://www.chomsky.info/articles/195609--.pdf][(92)]]
 
 
+** A Note on Two Problems in Connexion with Graphs
+
+- Edsger W. Dijkstra
+- 1959
+- [[http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf][(108)]]
+
+
 ** Programs with Common Sense
 
 - John McCarthy
