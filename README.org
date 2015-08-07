@@ -35,6 +35,13 @@
 - [[http://www.w-k-essler.de/pdfs/goedel.pdf][(47)]], [[http://www.csee.wvu.edu/~xinl/library/papers/math/Godel.pdf][(75)]]
 
 
+** On Computable Numbers, With an Application to the Entscheidungsproblem
+
+- Alan M. Turing
+- 1936-11-12
+- [[http://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf][(109)]], [[http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf][(110)]], [[http://www.abelard.org/turpap2/tp2-ie.asp][(111)]]
+
+
 ** Distribution of the ratio of the mean square successive difference to the variance
 
 - John von Neumann
