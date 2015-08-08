@@ -77,6 +77,13 @@
 - [[http://www.nsf.gov/od/lpa/nsf50/vbush1945.htm][(17)]]
 
 
+** Communication Theory of Secrecy Systems
+
+- Claude E. Shannon
+- 1946-09-01
+- [[http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf][(113)]]
+
+
 ** A Mathematical Theory of Communication
 
 - Claude E. Shannon
