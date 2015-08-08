@@ -84,6 +84,13 @@
 - [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf][(67)]], [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.ps][(68)]], [[http://www3.alcatel-lucent.com/bstj/vol27-1948/articles/bstj27-3-379.pdf][(69a)]], [[http://www3.alcatel-lucent.com/bstj/vol27-1948/articles/bstj27-4-623.pdf][(69b)]]
 
 
+** Communication in the Presence of Noise
+
+- Claude E. Shannon
+- 1949-01
+- [[http://web.stanford.edu/class/ee104/shannonpaper.pdf][(112)]]
+
+
 ** Computing machinery and intelligence
 
 - Alan M. Turing
