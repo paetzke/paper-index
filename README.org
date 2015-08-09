@@ -105,6 +105,13 @@
 - [[http://www.nsf.gov/od/lpa/nsf50/vbush1945.htm][(17)]]
 
 
+** Plankalkül
+
+- Konrad Zuse
+- 1946
+- [[http://zuse.zib.de/file/1rUAfKDkirW8o3gT/21/1c/70/9e-d718-4b4e-be7b-ed9b620f5683/0/original/092be0ebdd0784fee570ef37eee273c7.pdf][(116)]]
+
+
 ** Communication Theory of Secrecy Systems
 
 - Claude E. Shannon
