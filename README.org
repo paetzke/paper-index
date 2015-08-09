@@ -35,6 +35,13 @@
 - [[http://www.w-k-essler.de/pdfs/goedel.pdf][(47)]], [[http://www.csee.wvu.edu/~xinl/library/papers/math/Godel.pdf][(75)]]
 
 
+** Die Rechenmaschine des Ingenieurs
+
+- Konrad Zuse
+- 1936
+- [[http://zuse.zib.de/file/4QsqpVNXtamya0i/d1/c4/63/d3-7ae3-408b-89ac-3faabccb6079/0/original/1f4a9480a33cdf9f4f3eecdfb8b18ea8.pdf][(118)]]
+
+
 ** On Computable Numbers, With an Application to the Entscheidungsproblem
 
 - Alan M. Turing
