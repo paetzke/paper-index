@@ -63,6 +63,13 @@
 - [[http://projecteuclid.org/download/pdf_1/euclid.aoms/1177731677][(31)]]
 
 
+** Rechenplangesteuerte Rechengeräte für technische und wissenschaftliche Rechnungen
+
+- Konrad Zuse
+- 1943
+- [[http://zuse.zib.de/file/1rUAfKDkirW8o3gT/57/67/48/50-34a7-4299-9a79-73e9c08be7fa/0/original/451f9cf6e83ad6553a6646674fe265db.pdf][(114)]]
+
+
 ** Theory of Games and Economic Behavior
 
 - Oskar Morgenstern, John von Neumann
