@@ -532,6 +532,13 @@
 - [[http://piumarta.com/papers/colas-whitepaper.pdf][(64)]]
 
 
+** An Incremental Approach to Compiler Construction
+
+- Abdulaziz Ghuloum
+- 2006
+- [[http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf][(121)]]
+
+
 ** Practical Principles for Computer Security
 
 - Butler W. Lampson
