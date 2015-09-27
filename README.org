@@ -574,6 +574,13 @@
 - [[http://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html][(73)]]
 
 
+** A History of Haskell: Being Lazy With Class
+
+- Paul Hudak, John Hughes, Simon Peyton Jones, Philip Wadler
+- 2007-04-16
+- [[http://research.microsoft.com/en-us/um/people/simonpj/papers/history-of-haskell/history.pdf][(122)]]
+
+
 ** A Brief History of Software Engineering
 
 - Niklaus Wirth
