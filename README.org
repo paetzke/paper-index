@@ -431,7 +431,7 @@
 
 - Alan C. Kay
 - 1993
-- [[http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html][(22)]]
+- [[http://worrydream.com/EarlyHistoryOfSmalltalk/][(120)]], [[http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html][(22)]]
 
 
 ** The Development of the C Language
