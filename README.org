@@ -336,6 +336,13 @@
 - [[http://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf][(3)]]
 
 
+** Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode
+
+- Guy L. Steele, Gerald J. Sussman
+- 1979-03
+- [[http://dspace.mit.edu/bitstream/handle/1721.1/5731/AIM-514.pdf?sequence=2][(123)]]
+
+
 ** The Unreasonable Effectiveness of Mathematics
 
 - Richard W. Hamming
