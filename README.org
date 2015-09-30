@@ -441,6 +441,13 @@
 - [[http://worrydream.com/EarlyHistoryOfSmalltalk/][(120)]], [[http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html][(22)]]
 
 
+** The Evolution of Lisp
+
+- Richard P. Gabriel, Guy L. Steele
+- 1993-03
+- [[http://www.csee.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf][(124)]]
+
+
 ** The Development of the C Language
 
 - Dennis M. Ritchie
