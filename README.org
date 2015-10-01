@@ -56,13 +56,6 @@
 - [[http://zuse.zib.de/file/4QsqpVNXtamya0i/1a/41/d9/cf-7d30-45d8-936c-6bfda66b53fc/0/original/e8fe96bdbf2f526870496869a541c3fe.pdf][(117)]]
 
 
-** The LISP Implementation for the PDP-1 Computer
-
-- Edmund C Berkeley, L. Peter Deutsch
-- 1936-12-21
-- [[http://www.computerhistory.org/pdp-1/media/document/DEC.pdp_1.1964.102650371.pdf][(119)]]
-
-
 ** Distribution of the ratio of the mean square successive difference to the variance
 
 - John von Neumann
@@ -208,6 +201,13 @@
 - Donald E. Knuth
 - 1963
 - [[http://thesis.library.caltech.edu/2441/1/Knuth_de_1963.pdf][(24)]]
+
+
+** The LISP Implementation for the PDP-1 Computer
+
+- Edmund C Berkeley, L. Peter Deutsch
+- 1964-03
+- [[http://www.computerhistory.org/pdp-1/media/document/DEC.pdp_1.1964.102650371.pdf][(119)]]
 
 
 ** The RAND Tablet: A Man-Machine Graphical Communication Device
