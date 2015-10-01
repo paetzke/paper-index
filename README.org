@@ -308,6 +308,13 @@
 - [[http://www.mprove.de/diplom/gui/kay72.html][(1)]], [[http://www.mprove.de/diplom/gui/Kay72a.pdf][(2)]]
 
 
+** Bit BLT
+
+- Dan Ingalls
+- 1975-11-19
+- [[http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/alto/BitBLT_Nov1975.pdf][(125)]]
+
+
 ** Scheme: An Interpreter for Extended Lambda Calculus
 
 - Guy L. Steele, Gerald J. Sussman
