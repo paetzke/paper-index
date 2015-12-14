@@ -483,6 +483,13 @@
 - [[http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf][(84)]]
 
 
+** Structure and Interpretation of Computer Programs
+
+- Harald Abelson, Gerald J. Sussman, Julie Sussman
+- 1996
+- [[http://web.mit.edu/alexmv/6.037/sicp.pdf][(126)]]
+
+
 ** C--: A Portable Assembly Language
 
 - Simon Peyton Jones, Thomas Nordin, Dino Oliva
