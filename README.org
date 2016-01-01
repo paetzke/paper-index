@@ -629,6 +629,12 @@
 - [[http://doc.cat-v.org/bell_labs/concurrent_window_system/concurrent_window_system.pdf][(53)]]
 
 
+** A Nanopass Framework for Compiler Education
+
+- R. Kent Dybvig, Dipanwita Sarkar, Oscar Waddell
+- [[http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf][(127)]]
+
+
 ** A New C Compiler
 
 - Ken Thompson
