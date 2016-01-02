@@ -476,6 +476,13 @@
 - [[http://cr.yp.to/bib/1995/wirth.pdf][(83)]]
 
 
+** Let's Build a Compiler
+
+- Jack Crenshaw
+- 1995-05-29
+- [[http://compilers.iecc.com/crenshaw/tutorfinal.pdf][(128)]]
+
+
 ** Compiler Construction
 
 - Niklaus Wirth
